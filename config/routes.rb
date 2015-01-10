@@ -1,4 +1,4 @@
-Latch::Application.routes.draw do
+LatchApp::Application.routes.draw do
   devise_for :users, controllers: { registrations: 'devise_latcheable/registrations' }
 
   # The priority is based upon order of creation: first created -> highest priority.

@@ -19,8 +19,7 @@ gem 'coffee-rails', '~> 4.0.0'
 # gem 'therubyracer', platforms: :ruby
 
 gem 'devise'
-gem 'latch', path: '../latch'
-gem 'devise_latcheable', path: '../devise_latcheable'
+gem 'devise_latcheable'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'

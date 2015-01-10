@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Latch::Application.load_tasks
+LatchApp::Application.load_tasks
