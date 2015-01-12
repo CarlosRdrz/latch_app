@@ -1,2 +1,3 @@
 <p>Hello <%= @user.email %>!</p>
-<%= link_to 'Sign out', destroy_user_session_path, method: :delete %>
+<p><%= link_to 'Sign out', destroy_user_session_path, method: :delete %></p>
+<p><%= link_to 'Remove account', user_registration_path, method: :delete %></p>
