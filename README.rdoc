@@ -1,6 +1,6 @@
 == Latch Rails APP
 
-This rails app demos the use of devise with devise_latcheable gem.
+This rails app demos the use of devise with devise_latcheable gem (https://github.com/CarlosRdrz/devise_latcheable).
 
 It uses latch (https://latch.elevenpaths.com/) to add an extra layer of security when creating and signing in users.
 
