@@ -50,7 +50,7 @@ GEM
       responders
       thread_safe (~> 0.1)
       warden (~> 1.2.3)
-    devise_latcheable (0.0.4)
+    devise_latcheable (0.1.0)
       devise (>= 3.0)
       latchsdk (>= 1.1)
     erubis (2.7.0)
